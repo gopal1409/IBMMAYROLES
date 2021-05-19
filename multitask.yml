@@ -3,3 +3,4 @@
    hosts: client
    roles:
    - web
+   - patch
