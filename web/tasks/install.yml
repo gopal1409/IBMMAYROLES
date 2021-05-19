@@ -1,0 +1,5 @@
+---
+- name: Install latest package of apache. 
+  yum:
+         name: httpd
+         state: latest
